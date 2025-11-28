@@ -1,2 +1,2 @@
-# saaforganic.github.com
+# saaforganic.github.io
 internet magazin
